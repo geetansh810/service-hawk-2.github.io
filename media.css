@@ -1,0 +1,64 @@
+@media only screen and (max-width: 1000px) {
+  .app {
+    width: 100%;
+  }
+  .landing-image img {
+    width: 100%;
+    height: 100%;
+  }
+  .landing-text {
+    margin: 5% 0;
+    width: 100%;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    text-align: center;
+  }
+  .landing-text h2 {
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: bold;
+  }
+  .landing-text p {
+    margin-top: 1%;
+    line-height: 20px;
+    font-weight: bold;
+    font-size: small;
+  }
+  .landing-text div img {
+    margin-top: 1%;
+  }
+  .page-2 {
+    text-align: center;
+  }
+  .card p {
+    margin-top: 0%;
+    text-align: center;
+  }
+  .page-3 {
+    text-align: center;
+  }
+  .page-3 .card p {
+    text-align: center;
+  }
+  .page-5-text {
+    text-align: center;
+  }
+  .page-5-text li {
+    text-align: left;
+  }
+  #carouselExampleIndicators {
+    height: 40vh;
+    margin-bottom: 15%;
+  }
+  #footer {
+    text-align: center;
+  }
+  .number {
+    width: 100%;
+  }
+  .line {
+    width: 100%;
+  }
+}
+/*# sourceMappingURL=media.css.map */
